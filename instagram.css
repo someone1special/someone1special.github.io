@@ -1,0 +1,39 @@
+.header {
+  height: 60px; /*-размер фото- --*/
+  width: 100%;
+  background-color: #4476c7; /*--цвет  --*/
+}
+
+.main {
+  width: 935px;
+  height: 700px;
+  background-color: #c744a8;
+  margin: 0 auto;
+}
+
+
+.user {
+
+}
+.stories {
+
+}
+.tabs {
+
+}
+
+.line {
+  width: 935px;
+  height: 293px;
+  background-color: #48d462;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+}
+
+.pic {
+  width: 293px;
+  height: 293px;
+  background-color: #f5d222;
+  margin: 5px;
+}
